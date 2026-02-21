@@ -148,4 +148,12 @@ Data Cleaning and Transformation
 SQL-based Ad-hoc Data Analysis
 Business Intelligence Dashboard Creation
 Business Insight Generation
-It helped me strengthen my skills in Excel, PostgreSQL, Power BI, and Data Analytics.
+It helped me strengthen my skills in Excel, PostgreSQL, Power BI, and Data Analytics. 
+
+Project Screenshort:
+
+
+
+<img width="479" height="301" alt="Screenshot 2026-01-03 151109" src="https://github.com/user-attachments/assets/7f0ab934-7267-4f08-bed7-042cba083f18" />
+<img width="476" height="302" alt="Screenshot 2026-01-03 151143" src="https://github.com/user-attachments/assets/811d879d-c216-41d9-802f-8f5e1512bdee" />
+<img width="473" height="301" alt="Screenshot 2026-01-03 151217" src="https://github.com/user-attachments/assets/58f3daf4-d4e4-4f12-b5e8-a2f6e931f1c0" />
